@@ -1,0 +1,13 @@
+Choose your own adventure game
+
+Idea: User is lead through a narrative by chosing text options.
+
+Features:
+User is able to chose between different text options leading them through a narraitve that is affected by the choices they make
+User will pick up items and gold throughout the game
+On a failed run the user keeps a certain amount of gold that they can use to purchase items that they begin with on their next run.
+On a separate page, user is able to see a list of all items they can pick up and compare the stats. This is also where user will buy items for the next run.
+The user is able to see a list of monsters they may encounter throughout the game and compare stats
+
+Future Features:
+A log-in feature so users can save games and return
